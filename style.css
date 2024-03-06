@@ -1,7 +1,7 @@
 @charset 'UTF-8';
 @font-face {
     font-family: android;
-    src: url(pacote-projeto-d010/fontes/idroid.otf) format(opentype);
+    src: url(site-android/fontes/idroid.otf) format(opentype);
 }
 
 :root {
@@ -55,6 +55,7 @@ header > p {
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.356);
 }
